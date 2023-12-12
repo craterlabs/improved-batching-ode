@@ -1,0 +1,15 @@
+{
+    "input_size": 2,
+    "sequence_length": 49,
+    "batch_size": 50,
+    "hidden_size": 10,
+    "output_size": 1,
+    "dropout": false,
+    "data_set": "",
+    "step_size": 0.1,
+    "multi_gpu": false,
+    "num_epochs": 1000,
+    "learning_rate": 0.001,
+    "mode": "fixed_dt",
+    "gpus": "0"
+}

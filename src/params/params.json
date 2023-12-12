@@ -1,0 +1,15 @@
+{
+    "input_size": 15,
+    "sequence_length": 49,
+    "batch_size": 50,
+    "hidden_size": 20,
+    "output_size": 14,
+    "dropout": false,
+    "data_set": "data/Mujoco.h5",
+    "step_size": 0.01,
+    "multi_gpu": false,
+    "num_epochs": 1000,
+    "learning_rate": 0.001,
+    "mode": "fixed_dt",
+    "gpus": "0"
+}

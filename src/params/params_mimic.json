@@ -1,0 +1,15 @@
+{
+    "input_size": 205,
+    "sequence_length": 919,
+    "batch_size": 100,
+    "hidden_size": 64,
+    "output_size": 102,
+    "dropout": 0.4,
+    "data_set": "data/mimic-iv.h5",
+    "step_size": 0.05,
+    "multi_gpu": false,
+    "num_epochs": 1000,
+    "learning_rate": 0.001,
+    "mode": "fixed_dt",
+    "gpus": "0"
+}
